@@ -1,0 +1,38 @@
+:root {
+  --color-iron-100:#bdc1c2;
+  --color-iron-200:#a1a8aa;
+  --color-iron-300:#879092;
+  --color-iron-400:#6d7678;
+  --color-iron-500:#555c5e;
+  --color-light-steal-blue-100:#a0b9d4;
+  --color-light-steal-blue-200:#7d9fc5;
+  --color-light-steal-blue-300:#5a86b5;
+  --color-light-steal-blue-400:#446c97;
+  --color-light-steal-blue-500:#345374;
+  --color-echo-blue-100:#adaacb;
+  --color-echo-blue-200:#8f8ab7;
+  --color-echo-blue-300:#716aa4;
+  --color-echo-blue-400:#595388;
+  --color-echo-blue-500:#454068;
+  --color-gadilac-red-100:#96455b;
+  --color-gadilac-red-200:#733546;
+  --color-gadilac-red-300:#502531;
+  --color-gadilac-red-400:#2d151b;
+  --color-gadilac-red-500:#1c0d11;
+  --color-hawkes-blue-100:#babade;
+  --color-hawkes-blue-200:#9898cd;
+  --color-hawkes-blue-300:#7575bd;
+  --color-hawkes-blue-400:#5353ac;
+  --color-hawkes-blue-500:#42428a;
+  --color-cancan-red-100:#d590b0;
+  --color-cancan-red-200:#c76b96;
+  --color-cancan-red-300:#b9467c;
+  --color-cancan-red-400:#943863;
+  --color-cancan-red-500:#6f2a4a;
+}
+
+.heading {
+  color: #bdc1c2;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,13 @@
+@use './colors/funcolors' as *;
+
+:root {
+    @each $color, $shades in $colors{
+        @each $shade, $value in $shades{
+            --color-#{$color}-#{$shade}:#{$value};
+        }
+    }
+}
+
+.heading{
+    color: map-get(map-get($colors, iron), 100 );
+}
